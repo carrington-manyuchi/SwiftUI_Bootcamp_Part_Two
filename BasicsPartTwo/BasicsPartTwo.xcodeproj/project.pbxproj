@@ -13,6 +13,9 @@
 		E6B5D1642C760AEC002E3749 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E6B5D1632C760AEC002E3749 /* Preview Assets.xcassets */; };
 		E6B5D16B2C762519002E3749 /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6B5D16A2C762519002E3749 /* FrameBootcamp.swift */; };
 		E6B5D16D2C7653E3002E3749 /* BackgroundsAndOverlaysBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6B5D16C2C7653E3002E3749 /* BackgroundsAndOverlaysBootcamp.swift */; };
+		E6B5D16F2C765DC3002E3749 /* StacksBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6B5D16E2C765DC3002E3749 /* StacksBootcamp.swift */; };
+		E6B5D1712C766791002E3749 /* PaddingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6B5D1702C766791002E3749 /* PaddingBootcamp.swift */; };
+		E6B5D4F52C779562002E3749 /* InitializerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6B5D4F42C779562002E3749 /* InitializerBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +26,9 @@
 		E6B5D1632C760AEC002E3749 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E6B5D16A2C762519002E3749 /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
 		E6B5D16C2C7653E3002E3749 /* BackgroundsAndOverlaysBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundsAndOverlaysBootcamp.swift; sourceTree = "<group>"; };
+		E6B5D16E2C765DC3002E3749 /* StacksBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcamp.swift; sourceTree = "<group>"; };
+		E6B5D1702C766791002E3749 /* PaddingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingBootcamp.swift; sourceTree = "<group>"; };
+		E6B5D4F42C779562002E3749 /* InitializerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +65,9 @@
 				E6B5D15E2C760AEB002E3749 /* ContentView.swift */,
 				E6B5D16A2C762519002E3749 /* FrameBootcamp.swift */,
 				E6B5D16C2C7653E3002E3749 /* BackgroundsAndOverlaysBootcamp.swift */,
+				E6B5D16E2C765DC3002E3749 /* StacksBootcamp.swift */,
+				E6B5D1702C766791002E3749 /* PaddingBootcamp.swift */,
+				E6B5D4F42C779562002E3749 /* InitializerBootcamp.swift */,
 				E6B5D1602C760AEC002E3749 /* Assets.xcassets */,
 				E6B5D1622C760AEC002E3749 /* Preview Content */,
 			);
@@ -143,9 +152,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E6B5D16F2C765DC3002E3749 /* StacksBootcamp.swift in Sources */,
 				E6B5D15F2C760AEB002E3749 /* ContentView.swift in Sources */,
 				E6B5D15D2C760AEB002E3749 /* BasicsPartTwoApp.swift in Sources */,
 				E6B5D16B2C762519002E3749 /* FrameBootcamp.swift in Sources */,
+				E6B5D1712C766791002E3749 /* PaddingBootcamp.swift in Sources */,
+				E6B5D4F52C779562002E3749 /* InitializerBootcamp.swift in Sources */,
 				E6B5D16D2C7653E3002E3749 /* BackgroundsAndOverlaysBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
